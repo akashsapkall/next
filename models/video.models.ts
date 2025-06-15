@@ -1,4 +1,4 @@
-import mongoose, { Schema, model, models, Document, mongo } from "mongoose";
+import mongoose, { Schema, model, models, Document } from "mongoose";
 
 export const VIDEO_DIMENSIONS={
     width:1080,
